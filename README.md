@@ -12,7 +12,7 @@ Earlier there was no mode of online communication between users. In big or small
 ![Technology Stack](https://www.linkpicture.com/q/Tech-stack.jpg)
 ## 📷 Screenshots
 Login Page 
-![App Screenshot](https://ibb.co/RgD7WD5)
+![App Screenshot](https://i.ibb.co/ftrPY6C/Cryptodetails-Page.jpg)
 Signup Page
 ![App Screenshot](https://ibb.co/4JMLT7P)
 Home Page
