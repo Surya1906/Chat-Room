@@ -12,13 +12,27 @@ Earlier there was no mode of online communication between users. In big or small
 ![Technology Stack](https://www.linkpicture.com/q/Tech-stack.jpg)
 ## 📷 Screenshots
 Login Page 
-![App Screenshot](https://i.ibb.co/RgD7WD5/Login.jpg)
+
+
+![App Screenshot](https://i.ibb.co/0nGQ3Gw/Login.jpg)
+
+
 Signup Page
-![App Screenshot](https://ibb.co/4JMLT7P)
+
+
+![App Screenshot](https://i.ibb.co/CWvy7zh/Signup-Page.jpg)
+
+
 Home Page
-![App Screenshot](https://ibb.co/6YtrTnG)
+
+
+![App Screenshot](https://i.ibb.co/Q9HpTbh/Home-Page.jpg)
+
+
 Room UI
-![App Screenshot](https://ibb.co/DY6CS22)
+
+
+![App Screenshot](https://i.ibb.co/Jqb7MJJ/Room-UI.jpg)
 
 ## Authors
 
